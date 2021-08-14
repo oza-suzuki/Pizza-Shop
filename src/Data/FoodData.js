@@ -20,25 +20,21 @@ export const foodItems = [
     section: "Pizza",
   },
   {
-    id: 1,
     name: "Burger",
     img: "/img/burger.jpeg",
     section: "Sandwich",
   },
   {
-    id: 2,
     name: "Gyro",
     img: "/img/gyro.jpeg",
     section: "Sandwich",
   },
   {
-    id: 3,
     name: "Shrimp PoBoy",
     img: "/img/sandwich.jpeg",
     section: "Sandwich",
   },
   {
-    id: 4,
     name: "Fries",
     img: "/img/fries.jpeg",
     section: "Sides",
